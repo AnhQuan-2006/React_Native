@@ -28,23 +28,20 @@ App.js: Component chính để chạy ứng dụng.
 
 4. Hình ảnh giao diện
 
-4.1. Giao diện trang chủ
-Home.js
+ Giao diện trang chủ Home.js
+ 
 <img width="440" height="262" alt="image" src="https://github.com/user-attachments/assets/5b14150c-068a-45f4-b1ea-2e5986e7d323" />
 
-
-4.2. Giao diện thống kê khóa học
-
-StatCard.js
+ Giao diện thống kê khóa họcStatCard.js 
+ 
 <img width="432" height="210" alt="image" src="https://github.com/user-attachments/assets/825a0e63-3a5f-49d5-8823-c89f5a71d4c1" />
 
-4.3. Giao diện danh sách môn học
-CourseCard.js
+Giao diện danh sách môn học CourseCard.js
 
-<img width="447" height="612" alt="image" src="https://github.com/user-attachments/assets/bc8223a6-27e4-4610-95b3-61b21d94b3b6" />
+<img width="447" height="612" alt="image" src="https://github.com/user-attachments/assets/bc8223a6-27e4-4610-95b3-61b21d94b3b6" /> 
 
-4.4. Giao diện thanh menu
-BottomMenu.js
+ Giao diện thanh menuBottomMenu.js
+ 
 <img width="458" height="104" alt="image" src="https://github.com/user-attachments/assets/a36f8af6-4887-4fe2-b5d5-ecd06f022920" />
 
 
