@@ -31,7 +31,9 @@ Footer.js: Hiển thị nội dung cuối giao diện.
 4. Hình ảnh giao diện
 
 <img width="476" height="757" alt="image" src="https://github.com/user-attachments/assets/f6116529-e747-4b89-8db3-7330767e6a26" />
+
 <img width="456" height="755" alt="image" src="https://github.com/user-attachments/assets/39b2d871-b67f-4e8a-b04c-3e88ac72959f" />
+
 <img width="436" height="746" alt="image" src="https://github.com/user-attachments/assets/37c423b9-1942-4797-83c4-53014a837d71" />
 
 
