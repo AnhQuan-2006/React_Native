@@ -33,6 +33,6 @@ ProductApp là ứng dụng bán thiết bị công nghệ được xây dựng 
 Xây dựng được giao diện ứng dụng bán thiết bị công nghệ với ít nhất 6 sản phẩm. Các sản phẩm được hiển thị bằng component ProductCard có thể tái sử dụng, dữ liệu được truyền qua Props và danh sách được kết xuất bằng FlatList.
 <img width="444" height="741" alt="image" src="https://github.com/user-attachments/assets/bb4928e8-3be4-49c1-a84e-103c5e2d42d2" />
 
-
-## 7. Kết luận
+## 7. Link expo :https://snack.expo.dev/@anhquan2006/productapp
+## 8. Kết luận
 Thông qua bài thực hành, em đã hiểu cách xây dựng component có thể tái sử dụng, cách truyền dữ liệu bằng Props và cách sử dụng FlatList để hiển thị danh sách sản phẩm trong React Native.
