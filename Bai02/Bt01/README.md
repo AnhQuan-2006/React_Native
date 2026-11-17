@@ -52,7 +52,7 @@ Các component: View, Text, Image, ScrollView.
 
 Tên ứng dụng: MyApp_V2
 
-Link Expo: [Dán link ứng dụng tại đây]
+Link Expo: https://snack.expo.dev/@anhquan2006/myapp_2
 
 7. Kết quả
 
