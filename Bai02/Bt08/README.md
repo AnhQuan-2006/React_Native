@@ -48,137 +48,61 @@ Bt08/
     └── ContactScreen.js
 ```
 
-## 5. Các Component sử dụng
 
-### 5.1 TravelHeader
+## 5. Các màn hình của ứng dụng
 
-Component hiển thị banner ở đầu trang chủ, giới thiệu chủ đề khám phá thế giới động vật, tạo điểm nhấn cho giao diện ứng dụng.
-
-**Hình ảnh giao diện TravelHeader:**
-
-![TravelHeader](images/TravelHeader.png)
-
-**Code TravelHeader.js:**
-
-```jsx
-// Chèn code component TravelHeader.js tại đây
-```
-
-### 5.2 CategoryList
-
-Component hiển thị danh sách danh mục động vật. Người dùng có thể chọn Tất cả, Động vật ăn thịt, Động vật ăn cỏ hoặc Động vật ăn tạp để lọc danh sách.
-
-**Hình ảnh giao diện CategoryList:**
-
-![CategoryList](images/CategoryList.png)
-
-**Code CategoryList.js:**
-
-```jsx
-// Chèn code component CategoryList.js tại đây
-```
-
-### 5.3 DestinationCard
-
-Component hiển thị từng động vật dưới dạng thẻ, bao gồm hình ảnh, tên, danh mục và chức năng yêu thích. Người dùng có thể nhấn vào thẻ để xem thông tin chi tiết.
-
-**Hình ảnh giao diện DestinationCard:**
-
-![DestinationCard](images/DestinationCard.png)
-
-**Code DestinationCard.js:**
-
-```jsx
-// Chèn code component DestinationCard.js tại đây
-```
-
-### 5.4 FavoriteCard
-
-Component hiển thị các động vật đã được thêm vào danh sách yêu thích, hỗ trợ người dùng quản lý và xem lại các động vật yêu thích.
-
-**Hình ảnh giao diện FavoriteCard:**
-
-![FavoriteCard](images/FavoriteCard.png)
-
-**Code FavoriteCard.js:**
-
-```jsx
-// Chèn code component FavoriteCard.js tại đây
-```
-
-### 5.5 ProfileInfo
-
-Component hiển thị thông tin cá nhân của sinh viên bao gồm họ và tên, lớp và các thông tin giới thiệu.
-
-**Hình ảnh giao diện ProfileInfo:**
-
-![ProfileInfo](images/ProfileInfo.png)
-
-**Code ProfileInfo.js:**
-
-```jsx
-// Chèn code component ProfileInfo.js tại đây
-```
-
-## 6. Các màn hình của ứng dụng
-
-### 6.1 Trang chủ
+### 5.1 Trang chủ
 
 Trang chủ hiển thị banner, thanh tìm kiếm, danh mục động vật và danh sách các loài động vật. Người dùng có thể tìm kiếm, lọc danh mục, thêm yêu thích hoặc mở trang chi tiết.
 
-**Hình ảnh giao diện Trang chủ:**
+<img width="403" height="761" alt="image" src="https://github.com/user-attachments/assets/cda2e959-7a8f-41bf-b99c-0e0dacbb908f" />
 
-![Trang chủ](images/HomeScreen.png)
 
-### 6.2 Trang yêu thích
+### 5.2 Trang yêu thích
 
 Hiển thị danh sách động vật mà người dùng đã thêm vào yêu thích. Người dùng có thể xem lại hoặc xóa các động vật khỏi danh sách.
 
-**Hình ảnh giao diện Trang yêu thích:**
 
-![Trang yêu thích](images/FavoriteScreen.png)
+<img width="425" height="603" alt="image" src="https://github.com/user-attachments/assets/51efd5a3-7702-4253-bde5-48a02bce1440" />
 
-### 6.3 Trang cá nhân
+
+### 5.3 Trang cá nhân
 
 Hiển thị thông tin cá nhân của sinh viên và giao diện giới thiệu người sử dụng ứng dụng.
 
-**Hình ảnh giao diện Trang cá nhân:**
 
-![Trang cá nhân](images/ProfileScreen.png)
+<img width="427" height="635" alt="image" src="https://github.com/user-attachments/assets/409dabc3-aee2-4bdc-842b-e98d2db94146" />
 
-### 6.4 Trang chi tiết động vật
+
+### 5.4 Trang chi tiết động vật
 
 Khi nhấn vào một động vật tại trang chủ, ứng dụng sẽ mở màn hình chi tiết. Màn hình cung cấp các thông tin như hình ảnh, giới thiệu, môi trường sống, thức ăn, chiều cao, cân nặng, tuổi thọ, tập tính và những sự thật thú vị.
 
-**Hình ảnh giao diện Trang chi tiết:**
 
-![Trang chi tiết](images/DetailScreen.png)
+<img width="425" height="766" alt="image" src="https://github.com/user-attachments/assets/ce453e49-c65b-437e-ba76-28dcc46185db" />
 
-### 6.5 Trang giới thiệu
+
+### 5.5 Trang giới thiệu
 
 Giới thiệu mục đích, nội dung và các chức năng của ứng dụng TravellingApp.
 
-**Hình ảnh giao diện Giới thiệu:**
+<img width="422" height="618" alt="image" src="https://github.com/user-attachments/assets/df3dfb90-beeb-4053-a5ae-489d4afb55e7" />
 
-![Trang giới thiệu](images/AboutScreen.png)
 
-### 6.6 Trang cài đặt
+### 5.6 Trang cài đặt
 
 Hiển thị khu vực cài đặt của ứng dụng.
 
-**Hình ảnh giao diện Cài đặt:**
+<img width="351" height="322" alt="image" src="https://github.com/user-attachments/assets/e3d77e91-ccb8-478d-9f6f-a312cb5dd6a8" />
 
-![Trang cài đặt](images/SettingsScreen.png)
 
-### 6.7 Trang liên hệ
+### 5.7 Trang liên hệ
 
 Hiển thị thông tin liên hệ và hỗ trợ người dùng tìm hiểu thông tin về ứng dụng.
 
-**Hình ảnh giao diện Liên hệ:**
+<img width="421" height="432" alt="image" src="https://github.com/user-attachments/assets/a6b4c2ff-0518-4797-ac3d-88a290e6413c" />
 
-![Trang liên hệ](images/ContactScreen.png)
-
-## 7. Hệ thống điều hướng
+## 6. Hệ thống điều hướng
 
 ### Tab Navigation
 
@@ -212,7 +136,7 @@ Sử dụng Stack Navigation để chuyển từ danh sách động vật sang m
 
 ![Stack Navigation](images/StackNavigation.png)
 
-## 8. Kỹ thuật sử dụng
+## 7. Kỹ thuật sử dụng
 
 - **Tab Navigation:** Điều hướng giữa Trang chủ, Yêu thích và Cá nhân.
 - **Drawer Navigation:** Điều hướng đến Giới thiệu, Cài đặt và Liên hệ.
@@ -223,7 +147,7 @@ Sử dụng Stack Navigation để chuyển từ danh sách động vật sang m
 - **Props:** Truyền dữ liệu giữa các Component.
 - **useState:** Quản lý trạng thái danh mục, tìm kiếm và danh sách yêu thích.
 
-## 9. Kết quả đạt được
+## 8. Kết quả đạt được
 
 Hoàn thành ứng dụng TravellingApp với nhiều khu vực chức năng và hệ thống điều hướng kết hợp Tab Navigation, Drawer Navigation và Stack Navigation.
 
