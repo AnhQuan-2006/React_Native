@@ -93,7 +93,8 @@ Giới thiệu mục đích, nội dung và các chức năng của ứng dụng
 
 Hiển thị khu vực cài đặt của ứng dụng.
 
-<img width="351" height="322" alt="image" src="https://github.com/user-attachments/assets/e3d77e91-ccb8-478d-9f6f-a312cb5dd6a8" />
+<img width="425" height="447" alt="image" src="https://github.com/user-attachments/assets/b501d2ec-24d0-474c-8707-88ad74d46ab6" />
+
 
 
 ### 5.7 Trang liên hệ
