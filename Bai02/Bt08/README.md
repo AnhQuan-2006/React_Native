@@ -9,7 +9,7 @@ Tổ chức ứng dụng có nhiều khu vực chức năng và kết hợp các
 ## 2. Link ứng dụng Expo
 
 - **Tên ứng dụng:** TravellingApp
-- **Link Expo Snack:https://snack.expo.dev/@anhquan123/travellingapp
+- **Link Expo Snack:https://snack.expo.dev/@anhquan2006/travellingapp
 - **Nền tảng:** React Native – Expo Snack
 
 ## 3. Các chức năng chính
